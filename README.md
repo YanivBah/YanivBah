@@ -1,5 +1,4 @@
 <p align="center">
-I'm currently studying in a Bootcamp in order to be a Fullstack Developer.
   <img src="https://github-readme-stats.vercel.app/api?username=YanivBah">
 </p>
 
